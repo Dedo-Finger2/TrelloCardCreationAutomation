@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TrelloCardCreationAutomation": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
